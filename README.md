@@ -1,0 +1,2 @@
+# ErrorPages
+Simplistic Error Pages
