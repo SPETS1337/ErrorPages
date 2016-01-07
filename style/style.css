@@ -1,0 +1,30 @@
+/*/   ErrorPages by https://github.com/SPETZYY   /*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+font-family: 'Open Sans', sans-serif;
+
+background-color:#353230;
+color:#FAFAFA;
+}
+
+.wrap{
+margin-left:auto;
+margin-right:auto;
+margin-top:122px;
+width:33%;
+}
+.wrap h1{
+color:#ec3244;
+font-size:42px;
+}
+.wrap h3{
+font-size:24px;
+}
+.wrap a{
+color:#FFFFFF;
+}
+.wrap text{
+color:#FFFFFF;
+font-size:24px;
+}
